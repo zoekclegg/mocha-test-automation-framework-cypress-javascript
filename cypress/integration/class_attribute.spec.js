@@ -14,10 +14,6 @@ describe('class attribute tests', () => {
         class_attribute_page.clickDynamicButton();
         class_attribute_page.assertAlertText();
 
-        //cy.xpath("//button[contains(@class,'btn-primary')]").click()
-//cy.on('window:alert',(string)=>{
-            //expect(string).eq('Primary button pressed');
-        //})
     })
     
 })
