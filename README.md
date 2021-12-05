@@ -10,6 +10,6 @@ This is a Mocha automation framework built using Cypress and JavaScript which us
 
 ### Useful Resources & Articles
 
-[Official Cypress documentation](https://docs.cypress.io/guides/overview/why-cypress)
-[Working With Variables In Cypress Tests](https://www.stevenhicks.me/blog/2020/02/working-with-variables-in-cypress-tests/) - using aliases
+[Official Cypress documentation](https://docs.cypress.io/guides/overview/why-cypress)\
+[Working With Variables In Cypress Tests](https://www.stevenhicks.me/blog/2020/02/working-with-variables-in-cypress-tests/) - using aliases\
 [Code like this](https://codelikethis.com/lessons/javascript/cypress) - general tips
